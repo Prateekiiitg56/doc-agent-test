@@ -1,37 +1,36 @@
 ```json
 {
   "title": "Add new feature description in test5.md",
-  "description": "Enhance your repository with clear feature descriptions",
-  "videoScript": {
+  "description": "Discover how to add a new feature description in test5.md on GitHub",
+  "script": {
     "intro": {
-      "time": 0,
-      "text": "Welcome to GitHub, where collaboration and innovation come together."
+      "duration": 5,
+      "narration": "Welcome to GitHub, where you can manage and collaborate on your code projects."
     },
-    "section1": {
-      "time": 5,
-      "text": "Are you looking to add a new feature description to your repository?",
-      "action": "Open test5.md file"
+    "step1": {
+      "duration": 15,
+      "narration": "To add a new feature description, navigate to your repository and click on the 'test5.md' file.",
+      "action": "Click on test5.md file"
     },
-    "section2": {
-      "time": 15,
-      "text": "Adding a clear and concise feature description can improve understanding and adoption.",
-      "action": "Type new feature description"
+    "step2": {
+      "duration": 15,
+      "narration": "Click the 'Edit' button to start making changes to the file.",
+      "action": "Click the Edit button"
     },
-    "section3": {
-      "time": 30,
-      "text": "Use Markdown formatting to make your description stand out.",
-      "action": "Format text using Markdown"
+    "step3": {
+      "duration": 20,
+      "narration": "Add your new feature description using Markdown formatting. You can use headings, bold text, and links to make your description more readable.",
+      "action": "Add new feature description"
     },
-    "section4": {
-      "time": 45,
-      "text": "Commit your changes to save the new feature description.",
-      "action": "Commit changes"
+    "step4": {
+      "duration": 10,
+      "narration": "Once you've added your description, click 'Commit changes' to save your updates.",
+      "action": "Click Commit changes"
     },
     "outro": {
-      "time": 55,
-      "text": "That's it! Your new feature description is now live in test5.md."
+      "duration": 5,
+      "narration": "That's it! You've successfully added a new feature description in test5.md on GitHub."
     }
-  },
-  "duration": 60
+  }
 }
 ```
