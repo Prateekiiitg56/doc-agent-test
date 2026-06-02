@@ -1,21 +1,21 @@
 # Video Script — PR #5
 
 ## Voiceover Script
-Introducing a new GitHub feature, adding descriptions to files like test5.md, making it easier to understand code purpose and functionality.
+Introducing the new feature in test5.md, making it easier to add descriptions and track changes in your repository.
 
 ## Slides
-### Slide 1: Feature Overview
-- Add descriptions to files
+### Slide 1: Introduction
+- Add new feature description
 
 ### Slide 2: Benefits
-- Improved code readability
+- Improved tracking and collaboration
 
-### Slide 3: Getting Started
-- Edit file descriptions
+### Slide 3: How it Works
+- Simple and intuitive interface
 
-### Slide 4: Best Practices
-- Keep descriptions concise
+### Slide 4: Use Cases
+- Perfect for developers and teams
 
 ### Slide 5: Conclusion
-- Enhance your GitHub experience
+- Enhance your workflow with this new feature
 
