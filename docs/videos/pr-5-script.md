@@ -1,21 +1,21 @@
 # Video Script — PR #5
 
 ## Voiceover Script
-Introducing a new feature in GitHub, making it easy to add detailed descriptions to your files. This feature enhances collaboration and understanding of your project.
+Introducing a new feature in GitHub, adding a description to test5.md. This feature enhances collaboration and clarity.
 
 ## Slides
 ### Slide 1: Feature Overview
-- Add descriptions to files
+- Add new feature description
 
 ### Slide 2: Benefits
 - Improved collaboration
 
-### Slide 3: Getting Started
-- Edit file descriptions
+### Slide 3: Implementation
+- Edit test5.md
 
 ### Slide 4: Best Practices
-- Keep descriptions concise
+- Clear and concise descriptions
 
-### Slide 5: Conclusion
-- Enhance your project with descriptions
+### Slide 5: Getting Started
+- Try it now
 
