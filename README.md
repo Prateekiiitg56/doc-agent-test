@@ -1,41 +1,37 @@
 ```json
 {
-  "script": {
-    "title": "Add new feature description in test5.md",
+  "title": "Add new feature description in test5.md",
+  "description": "Enhance your repository with clear feature descriptions",
+  "videoScript": {
     "intro": {
-      "duration": 5,
-      "narration": "Welcome to this video on GitHub features."
+      "time": 0,
+      "text": "Welcome to GitHub, where collaboration and innovation come together."
     },
     "section1": {
-      "duration": 15,
-      "narration": "In this video, we will be covering how to add a new feature description in a GitHub markdown file, specifically test5.md.",
-      "visuals": "Screen recording of GitHub repository and test5.md file"
+      "time": 5,
+      "text": "Are you looking to add a new feature description to your repository?",
+      "action": "Open test5.md file"
     },
     "section2": {
-      "duration": 20,
-      "narration": "To add a new feature description, first navigate to your GitHub repository and locate the test5.md file.",
-      "visuals": "Screen recording of clicking on test5.md file"
+      "time": 15,
+      "text": "Adding a clear and concise feature description can improve understanding and adoption.",
+      "action": "Type new feature description"
     },
     "section3": {
-      "duration": 10,
-      "narration": "Click on the test5.md file to open it in the GitHub editor.",
-      "visuals": "Screen recording of GitHub editor"
+      "time": 30,
+      "text": "Use Markdown formatting to make your description stand out.",
+      "action": "Format text using Markdown"
     },
     "section4": {
-      "duration": 20,
-      "narration": "In the editor, add a new line and type your feature description using GitHub markdown syntax.",
-      "visuals": "Screen recording of typing in GitHub editor"
-    },
-    "section5": {
-      "duration": 10,
-      "narration": "Once you've added your feature description, click the 'Commit changes' button to save your changes.",
-      "visuals": "Screen recording of clicking 'Commit changes' button"
+      "time": 45,
+      "text": "Commit your changes to save the new feature description.",
+      "action": "Commit changes"
     },
     "outro": {
-      "duration": 5,
-      "narration": "That's it! You have successfully added a new feature description in test5.md."
+      "time": 55,
+      "text": "That's it! Your new feature description is now live in test5.md."
     }
   },
-  "totalDuration": 60
+  "duration": 60
 }
 ```
