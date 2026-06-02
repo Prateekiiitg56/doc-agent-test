@@ -1,39 +1,55 @@
 ```json
 {
-  "video_script": {
+  "script": {
     "title": "Introducing AI-Powered Smart Notes Export System",
     "intro": {
-      "duration": 5,
-      "narration": "Are you tired of manually formatting and exporting your notes? Introducing the AI-powered Smart Notes Export system, now available on GitHub!"
+      "text": "Take your note-taking to the next level with our new AI-powered Smart Notes Export system.",
+      "duration": 5
     },
     "section1": {
       "title": "What's New",
-      "duration": 15,
-      "narration": "This feature introduces Markdown, PDF, and HTML export support, with improved formatting and metadata preservation. Say goodbye to tedious formatting and hello to seamless collaboration!",
-      "visuals": ["Screenshot of export options", "Example of exported note in Markdown"]
+      "points": [
+        "Export notes in Markdown, PDF, and HTML formats",
+        "Improved formatting and metadata preservation",
+        "AI-assisted formatting for enhanced readability"
+      ],
+      "duration": 15
     },
     "section2": {
       "title": "Technical Changes",
-      "duration": 10,
-      "narration": "Under the hood, we've added an export pipeline, markdown rendering engine, PDF conversion support, metadata handling logic, and formatting optimization. This means faster and more reliable exports for you!",
-      "visuals": ["Code snippet of export pipeline", " Diagram of markdown rendering engine"]
+      "points": [
+        "Added export pipeline for seamless exports",
+        "Integrated markdown rendering engine",
+        "Added PDF conversion support",
+        "Enhanced metadata handling logic"
+      ],
+      "duration": 15
     },
     "section3": {
       "title": "Benefits",
-      "duration": 15,
-      "narration": "With the Smart Notes Export system, you'll enjoy better portability, cleaner documentation, improved collaboration, easier sharing workflows, and enhanced readability. Upgrade your note-taking experience today!",
-      "visuals": ["Example of shared note in PDF format", "Screenshot of team collaborating on notes"]
+      "points": [
+        "Better portability across devices and platforms",
+        "Cleaner documentation with improved formatting",
+        "Enhanced collaboration and sharing workflows",
+        "Easier sharing and readability"
+      ],
+      "duration": 15
     },
     "section4": {
-      "title": "Testing and Quality",
-      "duration": 10,
-      "narration": "We've thoroughly tested the Smart Notes Export system to ensure it meets our high standards. From Markdown exports to PDF generation, we've validated every aspect to guarantee a seamless user experience.",
-      "visuals": ["Screenshot of test results", "Example of exported note with preserved metadata"]
+      "title": "Testing and Verification",
+      "points": [
+        "Thoroughly tested Markdown exports",
+        "Verified PDF generation",
+        "Validated metadata preservation",
+        " Tested formatting consistency"
+      ],
+      "duration": 10
     },
     "outro": {
-      "duration": 5,
-      "narration": "Get started with the AI-powered Smart Notes Export system today and revolutionize your note-taking workflow! Visit our GitHub page to learn more."
-    }
+      "text": "Upgrade your note-taking experience with our AI-powered Smart Notes Export system. Try it out today!",
+      "duration": 10
+    },
+    "totalDuration": 60
   }
 }
 ```
