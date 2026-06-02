@@ -1,35 +1,35 @@
 ```json
 {
   "title": "Add new feature description in test5.md",
-  "description": "Discover how to add a new feature description in test5.md on GitHub",
-  "script": {
+  "description": "Enhance your GitHub repository with detailed feature descriptions",
+  "video_script": {
     "intro": {
-      "duration": 5,
-      "narration": "Welcome to GitHub, where you can manage and collaborate on your code projects."
+      "time": "0s",
+      "text": "Welcome to GitHub, where you can manage your code repositories efficiently."
     },
     "step1": {
-      "duration": 15,
-      "narration": "To add a new feature description, navigate to your repository and click on the 'test5.md' file.",
-      "action": "Click on test5.md file"
+      "time": "5s",
+      "text": "To add a new feature description, navigate to your repository and click on the 'Add file' button."
     },
     "step2": {
-      "duration": 15,
-      "narration": "Click the 'Edit' button to start making changes to the file.",
-      "action": "Click the Edit button"
+      "time": "15s",
+      "text": "Select 'Create new file' and name it 'test5.md'. This will be the file where you'll add the feature description."
     },
     "step3": {
-      "duration": 20,
-      "narration": "Add your new feature description using Markdown formatting. You can use headings, bold text, and links to make your description more readable.",
-      "action": "Add new feature description"
+      "time": "30s",
+      "text": "In the 'test5.md' file, add a heading that describes the new feature, followed by a brief description of its purpose and functionality."
     },
     "step4": {
-      "duration": 10,
-      "narration": "Once you've added your description, click 'Commit changes' to save your updates.",
-      "action": "Click Commit changes"
+      "time": "45s",
+      "text": "Use Markdown formatting to make your feature description more readable. You can add bullet points, bold text, or links to other relevant resources."
+    },
+    "step5": {
+      "time": "55s",
+      "text": "Once you've added the feature description, click the 'Commit changes' button to save your updates."
     },
     "outro": {
-      "duration": 5,
-      "narration": "That's it! You've successfully added a new feature description in test5.md on GitHub."
+      "time": "59s",
+      "text": "Your new feature description is now live in the 'test5.md' file, making it easier for collaborators to understand your repository's features."
     }
   }
 }
